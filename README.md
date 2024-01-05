@@ -1,4 +1,9 @@
 # SIFT
-这是自己实现的一个利用opencv-python包来编写的简单SIFT算法实践，喜欢的可以玩玩，是一段非常短小简单的代码
-TODO:
-实现c++版本的opencv
+File Directory:
+|-----Simple simple version
+|
+|-----complex complex version
+|
+|-----Advanced high-end version
+
+Language: python
